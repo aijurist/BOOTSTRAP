@@ -1,4 +1,4 @@
-/*
+/* 
   Content-Type: text/html; charset=UTF-8
 
 /*.js
@@ -6,3 +6,9 @@
 
 /*.css
   Content-Type: text/css
+
+/*.jpg
+  Content-Type: image/jpeg
+
+/*.png
+  Content-Type: image/png
